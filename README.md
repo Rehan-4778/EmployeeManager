@@ -3,7 +3,7 @@ Set the `localStorage` of your browser with a "user" object as follows:
 
 Paste the code below in your browser's console and hit Enter.
 
-`localStorage.setItem('user',JSON.stringify({
+`localStorage.setItem('user', JSON.stringify({
     email: 'admin@gmail.com',
     password: 'admin123'
 }))`
